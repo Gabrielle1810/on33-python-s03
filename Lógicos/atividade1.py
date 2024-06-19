@@ -6,6 +6,6 @@ if nota >= 7 and nota <= 10:
 elif nota >= 1 and nota < 7:
     print('Você está reprovada!')
 elif nota < 0 or nota > 10:
-        print('Nota inválida!')
+    print('Nota inválida!. Digite uma nota entre 0 e 10.')
 
 
